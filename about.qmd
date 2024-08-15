@@ -14,7 +14,7 @@ tbl-colwidths: [20,80]
 +---------------------+----------------------------------------------------------------------------------------------------------------------------------+
 | **2020 -- 2023**    | **University of California, Los Angeles**                                                                                        |
 |                     |                                                                                                                                  |
-|                     | *Master of Science, Biology, specializing in the Ecology and Evolution of Medicine*                                              |
+|                     | *Master of Science, Biology (specializing in the Ecology and Evolution of Medicine)*                                              |
 |                     |                                                                                                                                  |
 |                     | Advisor: [James O. Lloyd-Smith](https://faculty.eeb.ucla.edu/lloydsmith/)                                                        |
 +---------------------+----------------------------------------------------------------------------------------------------------------------------------+
